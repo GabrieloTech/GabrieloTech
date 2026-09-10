@@ -1,8 +1,8 @@
 <h1 align="center">Gabriel de Oliveira Pereira</h1>
 
 <p align="center">
-  <b>Técnico em Informática | Desenvolvedor Full-Stack (Front-end & Back-end)</b><br>
-  <i>Desenvolvendo soluções web, arquiteturas escaláveis e sistemas eficientes.</i>
+  <b>Desenvolvedor Full-Stack Júnior | Técnico em Informática</b><br>
+  <i>Em início de carreira, focado em construir soluções web eficientes, escaláveis e de alta qualidade.</i>
 </p>
 
 <p align="center">
@@ -19,9 +19,11 @@
 
 ---
 
-### Perfil Profissional
+### Sobre Mim
 
-Desenvolvedor Full-Stack e Técnico em Informática formado pelo Senac Santo André. Atuação prática focada na construção de interfaces responsivas no **Front-end**, estruturação de regras de negócios e modelagem de dados no **Back-end**. Experiência em projetos colaborativos corporativos, automação de rotinas em ambiente de TI, suporte avançado de hardware e infraestrutura de redes.
+Profissional em início de carreira, formado como **Técnico em Informática pelo Senac Santo André** e focado em atuar como **Desenvolvedor Full-Stack Júnior**. Possuo vivência prática na construção de aplicações web — unindo o desenvolvimento de interfaces no **Front-end** com a modelagem de dados e regras de negócio no **Back-end**. 
+
+Minha formação técnica também me proporciona uma base sólida em infraestrutura, redes e suporte, o que me dá uma visão ampla de ponta a ponta sobre os ambientes de TI. Busco a minha primeira oportunidade formal para somar em equipes dinâmicas, acelerar meu desenvolvimento técnico e entregar valor real aos negócios.
 
 ---
 
@@ -48,5 +50,5 @@ Desenvolvedor Full-Stack e Técnico em Informática formado pelo Senac Santo And
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Disponível_para_Oportunidades-111111?style=for-the-badge&color=222222" alt="Status Profissional">
+  <img src="https://img.shields.io/badge/Status-Disponível_para_Vagas_Júnior-111111?style=for-the-badge&color=2563eb" alt="Status Profissional">
 </p>
