@@ -43,7 +43,7 @@ Minha formação técnica também me proporciona uma base sólida em infraestrut
 
 ### Projetos em Destaque
 
-* **[MoneyCode](https://github.com/GabrieloTech)** — Plataforma web colaborativa desenvolvida em equipe, com atuação integrada no front-end, rotinas de back-end e estruturação de banco de dados relacional.
+* **[MoneyCode]([https://github.com/GabrieloTech](https://github.com/GabrieloTech/MoneyCode))** — Plataforma web colaborativa desenvolvida em equipe, com atuação integrada no front-end, rotinas de back-end e estruturação de banco de dados relacional.
 * **Sistemas de Gestão Corporativa** — Ecossistemas web simulados para gestão escolar e de academias, utilizando PHP, MySQL e formulários seguros.
 * **HardClock** — Ferramenta voltada para gestão de tempo, produtividade e automação de processos no ecossistema de TI.
 
