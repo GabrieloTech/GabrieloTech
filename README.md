@@ -52,13 +52,6 @@ Profissional formado como **Técnico em Informática (Senac Santo André)**, foc
 
 <br>
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrieloTech&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieloTech&layout=compact&theme=radical&hide_border=true" alt="Top Linguagens" height="150">
-</p>
-
 ---
 
 <p align="center">
